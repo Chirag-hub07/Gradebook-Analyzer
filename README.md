@@ -45,12 +45,13 @@ The program loops until the user chooses to exit.
 
 📊 Grading Criteria
 --------------------
-Marks 	         Grade
-90 and above	    A
-80–89	            B
-70–79	            C
-60–69	            D
-Below 60	        F
+| Marks Range  | Grade |
+| ------------ | ----- |
+| 90 and above | A     |
+| 80–89        | B     |
+| 70–79        | C     |
+| 60–69        | D     |
+| Below 60     | F     |
 
 🧮 Example Output
 -------------------
